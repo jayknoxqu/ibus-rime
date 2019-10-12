@@ -10,12 +10,11 @@
 
 RIME 是一款开源、跨平台、且简洁流畅的输入法引擎， 不同平台有着不同代号：
 
-- **Windows：**小狼毫( [Weasel](https://github.com/rime/weasel))【[下载](https://bintray.com/rime/weasel/release)】
-
-  
+- **Windows：** 小狼毫( [Weasel](https://github.com/rime/weasel))【[下载](https://bintray.com/rime/weasel/release)】
 
 
-- **MacOS：**鼠须管([Squirrel](https://github.com/rime/squirrel))【[下载](https://bintray.com/rime/squirrel/release)】
+
+- **MacOS：** 鼠须管([Squirrel](https://github.com/rime/squirrel))【[下载](https://bintray.com/rime/squirrel/release)】
   
   ~~~bash
   ```bash
@@ -24,10 +23,8 @@ RIME 是一款开源、跨平台、且简洁流畅的输入法引擎， 不同�
   brew cask install squirrel
   ```
   ~~~
-  
-  
-  ​    
-  
+
+
 - **Linux：**中州韵
               **1. [ibus-rime](https://github.com/rime/ibus-rime)：**基于 IBus 輸入法框架  
           
