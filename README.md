@@ -26,7 +26,7 @@ brew cask install squirrel
 - **Linux：** 中州韵
 
 
-  **1. [ibus-rime](https://github.com/rime/ibus-rime)：** 基于 IBus 輸入法框架  
+ **1. [ibus-rime](https://github.com/rime/ibus-rime)：** 基于 IBus 輸入法框架  
           
 ``` bash
 # Ubuntu
@@ -39,7 +39,7 @@ sudo dnf install
 ```
 
 
-  **2. [fcitx-rime](https://github.com/fcitx/fcitx-rime)：** 基于 Fcitx 輸入法框架（已停更）
+ **2. [fcitx-rime](https://github.com/fcitx/fcitx-rime)：** 基于 Fcitx 輸入法框架（已停更）
           
           
 
