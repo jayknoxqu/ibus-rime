@@ -1,0 +1,402 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+
+---
+name: luna_pinyin.science_symbol
+version: "2019.10.10"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+㎐	hz
+㎑	khz
+㎒	mhz
+㎓	ghz
+㎔	thz
+㎧	ms
+㎨	ms
+㎩	pa
+㍱	hpa
+㎪	kpa
+㎫	mpa
+㎬	gpa
+㎴	pv
+㎵	nv
+㎶	uv
+㎷	mv
+㎸	kv
+㎺	pw
+㎻	nw
+㎼	uw
+㎽	mw
+㎾	kw
+㏀	kou
+㏁	mou
+㎊	pf
+㎋	nf
+㎌	uf
+㎅	kb
+㎆	mb
+㎇	gb
+㏑	ln
+㏒	log
+㏖	mol
+㏈	db
+㏕	mil
+㎞	km
+㎏	kg
+㏂	am
+㏘	pm
+㏗	ph
+㎍	ug
+㎎	mg
+㎝	cm
+㎜	mm
+㎛	um
+㎚	nm
+㎙	fm
+㎟	mm
+㎠	cm
+㎡	m
+㎢	km
+㎣	mm
+㎤	am
+㎥	m
+㎦	km
+㎕	ul
+㎖	me
+㎗	de
+㎘	ke
+㎁	na
+㎂	ua
+㎃	ma
+㎄	ka
+㏙	ppm
+℀	ac
+℁	as
+∪	u
+∩	n
+∨	v
+™	tm
+@	at
+Å	a
+°	du
+℃	du
+℉	du
+°	du shu
+℃	du shu
+℉	du shu
+℃	she shi du
+℉	hua shi du
+％	bai fen hao
+‰	qian fen hao
+‱	wan fen hao
+㏃	bq
+㏆	ckg
+㎈	cal
+㏄	cc
+㏅	cd
+㏉	gy
+㏊	ha
+㏋	hp
+㏌	in
+㎉	kcal
+㏍	kk
+㏏	kt
+㏐	lm
+㏓	lx
+㎳	ms
+㎱	ns
+㏚	pr
+㎰	ps
+㎭	rad
+㎮	rads
+㎯	rads
+㏛	sr
+㏜	sv
+㏝	wb
+㎲	us
+∬	ji fen
+∭	ji fen
+∮	ji fen
+∯	ji fen
+∰	ji fen
+⨌	ji fen
+∂	pian
+𝛛	pian
+𝜕	pian
+𝝏	pian
+∂	pian wei fen
+𝛛	pian wei fen
+𝜕	pian wei fen
+𝝏	pian wei fen
+√	gen hao
+∛	li fang gen
+∜	si ci gen
+∑	he
+∧	he
+∑	qiu he
+±	jia jian
+∓	jia jian
+∓	fu zheng
+±	zheng fu
+×	cheng
+∏	ji
+∏	cheng ji
+÷	chu
+㎈	ka
+㎈	ka lu li
+㎉	qian ka
+∇	ti du
+∇×	xuan du
+∇·	san du
+∇²	la pu la si
+∇·∇	la pu la si
+∇·∇	la pu la si suan fu
+∇²	la pu la si suan fu
+☐²	da lang bei er
+☐²	da lang bei er suan fu
+∝	zheng bi
+∠	jiao
+∅	kong
+∅	kong ji
+⊂	bao han
+⊃	bao han
+⊆	bao han
+⊇	bao han
+∪	bing
+∩	jiao
+∨	huo
+¬	fan
+¬	ni
+∪	bing ji
+∩	jiao ji
+∵	yin wei
+∴	suo yi
+⊕	zhi he
+⊗	zhi ji
+§	zhang jie
+§	jie
+¶	duan luo
+⁋	duan luo
+⁋	duan
+¶	duan
+≅	quan deng
+<	xiao yu
+>	da yu
+∞	wu qiong
+≪	yuan xiao yu
+≫	yuan da yu
+≤	xiao yu deng yu
+≥	da yu deng yu
+≠	bu deng
+∀	ren yi
+∃	cun zai
+∄	bu cun zai
+——	po zhe hao
+↑	shang
+↓	xia
+←	zuo
+→	you
+∈	shu yu
+∋	shu yu
+∊	shu yu
+∍	shu yu
+∉	bu shu yu
+∌	bu shu yu
+µ	u
+Ω	ou mu
+㎐	pin lv
+㎐	he zi
+㎑	qian he zi
+㎒	zhao he zi
+㎓	ji he zi
+㎔	tai he zi
+㎧	su du
+㎧	mi mei miao
+㎨	jia su du
+㎨	mi mei ping fang miao
+㎩	ya qiang
+㎩	ya li
+㎩	pa si ka
+㍱	bai pa
+㎪	qian pa
+㎫	zhao pa
+㎬	ji pa
+㎴	pi fu
+㎵	na fu
+㎶	wei fu
+㎷	hao fu
+㎸	qian fu
+㎹	zhao fu
+㎺	pi wa
+㎻	na wa
+㎼	wei wa
+㎽	hao wa
+㎾	qian wa
+㎿	zhao wa
+㏀	qian ou
+㏁	zhao ou
+㎊	pi fa
+㎋	na fa
+㎌	wei fa
+㎅	zi jie
+㎆	zi jie
+㎇	zi jie
+㏑	dui shu
+㏒	dui shu
+㏖	mo er
+㏈	fen bei
+㏕	ying li
+㎞	qian mi
+㎏	qian ke
+∓	zheng fu
+
+
+###################################
+#	㎐	频率
+#	㎐	赫兹
+#	㎑	千赫兹
+#	㎒	兆赫兹
+#	㎓	吉赫兹
+#	㎔	太赫兹
+#	㎧	速度
+#	㎧	米每秒
+#	㎨	加速度
+#	㎨	米每平方秒
+#	㎩	压强
+#	㎩	压力
+#	㎩	帕
+#	㎩	帕斯卡
+#	㍱	百帕
+#	㎪	千帕
+#	㎫	兆帕
+#	㎬	吉帕
+#	㎴	皮伏
+#	㎵	纳伏
+#	㎶	微伏
+#	㎷	豪伏
+#	㎸	千伏
+#	㎹	兆伏
+#	㎺	皮瓦
+#	㎻	纳瓦
+#	㎼	微瓦
+#	㎽	豪瓦
+#	㎾	千瓦
+#	㎿	兆瓦
+#	㏀	千欧
+#	㏁	兆欧
+#	㎊	皮法
+#	㎋	纳法
+#	㎌	微法
+#	㎅	字节
+#	㎆	字节
+#	㎇	字节
+#	㏑	对数
+#	㏒	对数
+#	㏖	摩尔
+#	㏈	分贝
+#	㏕	英里
+#	㎞	千米
+#	㏎	千米
+#	㎏	千克
+#	∬	积分
+#	∭	积分
+#	∮	积分
+#	∯	积分
+#	∰	积分
+#	⨌	积分
+#	∂	偏
+#	𝛛	偏
+#	𝜕	偏
+#	𝝏	偏
+#	∂	偏微分
+#	𝛛	偏微分
+#	𝜕	偏微分
+#	𝝏	偏微分
+#	√	根号
+#	∛	立方根
+#	∜	四次根
+#	∑	和
+#	∧	和
+#	∑	求和
+#	±	加减
+#	∓	加减
+#	∓	正负
+#	±	正负
+#	×	乘
+#	∏	积
+#	∏	乘积
+#	÷	除
+#	㎈	卡
+#	㎈	卡路里
+#	㎉	千卡
+#	∇	梯度
+#	∇×	旋度
+#	∇·	散度
+#	∇²	拉普拉斯
+#	∇·∇	拉普拉斯
+#	∇·∇	拉普拉斯算符
+#	∇²	拉普拉斯算符
+#	☐²	达朗贝尔
+#	☐²	达朗贝尔算符
+#	∝	正比
+#	∠	角
+#	∅	空
+#	∅	空集
+#	⊂	包含
+#	⊃	包含
+#	⊆	包含
+#	⊇	包含
+#	∪	并
+#	∩	交
+#	∨	或
+#	¬	反
+#	¬	逆
+#	∪	并集
+#	∩	交集
+#	∵	因为
+#	∴	所以
+#	⊕	直和
+#	⊗	直积
+#	§	章节
+#	§	节
+#	¶	段落
+#	⁋	段落
+#	⁋	段
+#	¶	段
+#	≅	全等
+#	<	小于
+#	>	大于
+#	∞	无穷
+#	≪	远小于
+#	≫	远大于
+#	≤	小于等于
+#	≥	大于等于
+#	≠	不等
+#	∀	任意
+#	∃	存在
+#	∄	不存在
+#	——	破折号
+#	%	百分
+#	‰	千分
+#	‱	万分
+#	卍	万
+#	卐	万
+#	↑	上
+#	↓	下
+#	←	左
+#	→	右
+#	∈	属于
+#	∋	属于
+#	∊	属于
+#	∍	属于
+#	∉	不属于
+#	∌	不属于

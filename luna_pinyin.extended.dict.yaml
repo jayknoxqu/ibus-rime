@@ -1,0 +1,28 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Basic)  - 明月拼音擴充詞庫（基本）
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+
+---
+name: luna_pinyin.extended
+version: "2019.10.10"
+sort: by_weight        #字典排序，可選original或by_weight
+use_preset_vocabulary: true
+
+# 如果不需要加載某个詞庫請將其用「#」註釋掉。
+
+import_tables:
+  - luna_pinyin                     # 系统默认词库
+  - luna_pinyin.sogou               # 80万搜狗词库
+  - luna_pinyin.english             # 常用英语单词
+  - luna_pinyin.science_symbol      # 物理数学符号
+  - luna_pinyin.emoji_text          # 颜文字表情符
+  - luna_pinyin.cn_en               # 中英混合词条
+...

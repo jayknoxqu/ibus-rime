@@ -1,0 +1,28 @@
+# default.custom.yaml
+# encoding: utf-8
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+
+patch:
+  menu/page_size: 5 #候选词数
+  style/horizontal: true # 候选窗水平显示
+
+
+# 定义按键切换策略：
+# inline_ascii 在输入法的临时西文编辑区内输入字母、数字、符号、空格等，回车上屏后自动复位到中文
+# commit_text 已输入的候选文字上屏并切换至英文输入模式
+# commit_code 已输入的编码字符上屏并切换至英文输入模式
+# noop 屏蔽該切換鍵
+
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+    Caps_Lock: noop
+    Shift_L: commit_code
+    Shift_R: commit_code
+    Control_L: noop
+    Control_R: noop
