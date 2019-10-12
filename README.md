@@ -15,6 +15,7 @@ RIME 是一款开源、跨平台、且简洁流畅的输入法引擎， 不同�
 
 
 - **MacOS：** 鼠须管([Squirrel](https://github.com/rime/squirrel))【[下载](https://bintray.com/rime/squirrel/release)】
+
 ```bash
 # [brew](https://brew.sh/index_zh-cn)
 
@@ -23,21 +24,21 @@ brew cask install squirrel
 
 
 - **Linux：** 中州韵
-              **1. [ibus-rime](https://github.com/rime/ibus-rime)：** 基于 IBus 輸入法框架  
+  **1. [ibus-rime](https://github.com/rime/ibus-rime)：** 基于 IBus 輸入法框架  
           
-              ``` bash
-              # Ubuntu
-              sudo apt-get install ibus-rime
+``` bash
+# Ubuntu
+sudo apt-get install ibus-rime
 
-              # Fedora
-              sudo dnf install 
+# Fedora
+sudo dnf install 
 
-              # [更多发行版...](https://github.com/rime/home/wiki/RimeWithIBus)
-              ```
+# [更多发行版...](https://github.com/rime/home/wiki/RimeWithIBus)
+```
 
 
 
-              **2. [fcitx-rime](https://github.com/fcitx/fcitx-rime)：** 基于 Fcitx 輸入法框架（已停更）
+  **2. [fcitx-rime](https://github.com/fcitx/fcitx-rime)：** 基于 Fcitx 輸入法框架（已停更）
           
           
 
