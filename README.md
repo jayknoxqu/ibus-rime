@@ -153,6 +153,14 @@ EOF
 
 
 
+### 排序并去重
+
+```bash
+sort 1.txt | uniq > 2.txt
+```
+
+
+
 ###  Unix文件格式转换器
 
 ```bash

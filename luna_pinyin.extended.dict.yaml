@@ -23,6 +23,8 @@ import_tables:
   - luna_pinyin.sogou               # 80万搜狗词库
   - luna_pinyin.english             # 常用英语单词
   - luna_pinyin.science_symbol      # 物理数学符号
+  - luna_pinyin.emoji_symbol        # 聊天表情符号
   - luna_pinyin.emoji_text          # 颜文字表情符
   - luna_pinyin.cn_en               # 中英混合词条
+  - luna_pinyin.networt_chat        # 网络聊天词库
 ...

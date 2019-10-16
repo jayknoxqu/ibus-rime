@@ -15,6 +15,19 @@ patch:
   "punctuator/import_preset": symbols.custom
   # 匹配自定义符号
   "recognizer/patterns/punct": "^/([a-z]+|[0-9])$"
+  switches:
+    - name: ascii_mode
+      reset: 0
+      states: ["中文", "西文"]
+    - name: full_shape
+      reset: 0
+      states: ["半角", "全角"]
+    - name: zh_simp
+      reset: 1
+      states: ["漢字", "汉字"]
+    - name: ascii_punct
+      reset: 1
+      states: ["。，", "．，"]
 
  
   # 以下皆为模糊音模板 #
