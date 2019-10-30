@@ -33,7 +33,7 @@ brew cask install squirrel
 sudo apt-get install ibus-rime
 
 # Fedora
-sudo dnf install 
+sudo dnf install ibus-rime
 
 # [更多发行版...](https://github.com/rime/home/wiki/RimeWithIBus)
 ```
